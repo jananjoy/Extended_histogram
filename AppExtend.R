@@ -1,8 +1,8 @@
 
 # ============================================================
-# BIOS640 Exercise 1: Interactive NHANES Shiny App
+# BIOS640 : Extended Histogram Tab Implementation
 # Author: Jananjoy Rajkumar
-# Purpose: Explore, filter, visualize, and download NHANES data
+# Purpose: Improvement on Histogram Tab
 # ============================================================
 library(pacman)
 library(DT)
