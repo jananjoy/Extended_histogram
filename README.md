@@ -77,7 +77,6 @@ Alternatively, open `AppExtend.R` in RStudio and run the application from the sc
 4. Adjust the age range to examine the relevant population. When MMSE Score is selected, the age-range slider is disabled, but its selected range is still applied to the histogram and summary results.
 5. Select a category, such as diagnosis, to compare MMSE score distributions.
 6. Review the MMSE summary table for descriptive statistics by diagnosis.
-7. Open the **Data Table** tab to select columns and download data.
 
 ## MMSE Score Interpretation
 
@@ -90,6 +89,10 @@ The application demonstrates interactive data exploration, filtering, visualizat
 ## Author
 
 Jananjoy Rajkumar
+
+## Testing Scenario
+
+Only the feature and functionally on the Histogram Tab
 
 ## Disclaimer
 
